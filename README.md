@@ -1,6 +1,11 @@
-# A from scratch recreation of an old group project.
-Go here to see the old repo:
+# A (somewhat) from-scratch recreation of an old group project.
+One of the first projects I was proud to be a part of, I'm recreating it (while referencing the original code)
+for perspective on the other facets of the app's code.
+
+Go here to see the original repo:
 https://github.com/sgenini/Crest
+
+
 
 
 
